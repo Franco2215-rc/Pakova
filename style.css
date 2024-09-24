@@ -52,11 +52,7 @@ header , nav{
 #Seccion-principal , div{
     width: 50%;
 }
-#Seccion-principal , div:first-child{
-    background-color: rgb(185, 36, 118);
-}
 #Seccion-principal , div:last-child{
     background-color: bisque;
     text-align: center;
-    border-radius: 50%;
 }
