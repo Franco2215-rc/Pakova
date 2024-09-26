@@ -55,3 +55,8 @@ header , nav{
 #Seccion-principal , div:last-child{
     text-align: center;
 }
+#imagen-logotipo{
+   border-radius: 50%;
+   width: 10%;
+   
+}
